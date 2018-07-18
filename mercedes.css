@@ -1,0 +1,38 @@
+div h1{color: yellow
+  ;
+  text-align: center;}
+p {color: orange;
+  background-color: dimgray;
+  padding: 30px 30px}
+a {color: red;}
+body { background-color: blue; }
+main  { justify-content: space-around;}
+img { text-align: center;}
+.side-by-side {
+  display: flex;
+}
+
+.side-by-side img {
+
+}
+a  { display: flex;
+  justify-content: space-around;   }
+
+
+
+}
+
+ol li a  { text-align: left }
+
+img { box-shadow: 0px 10px 30px 0px;
+  width: 500px;
+  height 500px; 
+  object-fit: cover;
+}
+
+a img  {
+  width: 100px;
+  height: 100px;
+
+
+}

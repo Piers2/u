@@ -1,0 +1,67 @@
+header{ color: red;
+  font-family: cursive;
+  text-align: center;
+  background-color: green;
+}
+h2{ color: darkgreen;
+  display: flex;
+  justify-content: center;
+  font-family: cursive; }
+p { background-color: green;
+  color: white;
+  font-family: cursive;
+  display: flex;
+  justify-content: space-around;
+  padding: 30px 30px
+}
+
+footer { color: whitesmoke;
+  font-family: cursive;
+  text-align: center;
+  background-color: green;
+} 
+
+
+a  { display: flex;
+  justify-content: space-around;   }
+
+
+
+
+}
+
+ol li a  { text-align: left }
+
+img {
+  object-fit: cover
+    width: 100px; 
+  height: 100px;
+  background-size: cover
+
+
+
+}  
+
+
+.bannerhome {
+  background-image: url("2017_ferrari_812_superfast-HD.jpg");
+  background-size: contain;
+  border: 15px solid green;
+  padding: 10px 10px;  
+
+
+
+
+
+}
+body  { background-color: red
+
+
+
+}
+
+div{
+  height: 200px;
+  background-image: linear-gradient(rgba(128, 0, 128, 0.38), orange, rgba(0, 0, 255, 0.37));
+}
+
